@@ -11,7 +11,7 @@ do we have subscribers more or customers ?
 
 Limitations :
 There were about 8000 null values in the data , I choosed to delete them
-there were many more outliers but I kept them due to the EDA purpose
+there were many more outliers but I removed all of them 
 
 Summary :
 Males are our niche customers
